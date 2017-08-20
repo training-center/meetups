@@ -1,2 +1,3 @@
 # meetups
-Repositório de encontros da comunidade
+
+> Repositório de encontros da comunidade
