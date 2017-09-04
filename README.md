@@ -2,6 +2,10 @@
 
 > Repositório para padronizar encontros da comunidade e orgarnizar call for papers dos Meetups.
 
+Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com) e quando ultrapassamos 50 pessoas no grupo efetuamos o pagamento da conta em conjunto á comunidade utilizando o financiamento coletivo via [Apoia.se](https://apoia.se/training-center).
+
+Caso você queira nos ajudar, pode pagar uma semestralidade para algum grupo também. :smile:
+
 ## Submeter palestra a algum Meetup <img src="https://github.com/training-center/call-4-papers/blob/master/img/send-button.png?raw=true" width="20px" alt="enviar">
 
 Para enviar palestras para eventos regionais organizados pelos membros do Training Center, você deve abrir uma issue nesse repositório seguindo o template:
