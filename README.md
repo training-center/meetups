@@ -68,7 +68,11 @@ Você precisará fazer um fork dos nossos slides de abertura do evento e adicion
 
 É importante fazer essa abertura para dar algum anúncio da comunidade, do seu grupo ou qualquer outra coisa.
 
-[Slides](https://docs.google.com/presentation/d/1Dae5oSIYF2S6wiqNXwjQNxipEE0oJPfoZZM2gSEkbdM/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1Dae5oSIYF2S6wiqNXwjQNxipEE0oJPfoZZM2gSEkbdM/edit?usp=sharing).
+
+A plataforma Meetup.com é paga e nós usamos os recursos do nosso Apoia.se para pagar por ela.
+
+Nossa dica é: abra seu grupo, divulgue. Quando o grupo atingir 50 pessoas, ative o modo premium. Somente depois de 6 meses é que precisamos pagar pela plataforma. Você pode pagar e nós te reembolsamos.
 
 **Comunicação**
 
