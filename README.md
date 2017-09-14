@@ -2,7 +2,7 @@
 
 > Repositório para padronizar encontros da comunidade e orgarnizar _call for papers_ dos Meetups.
 
-Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com) e quando ultrapassamos 50 pessoas no grupo efetuamos o pagamento da conta em conjunto com a comunidade utilizando o financiamento coletivo via [Apoia.se](https://apoia.se/training-center).
+Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com) e quando ultrapassamos 50 pessoas no grupo, efetuamos o pagamento da conta em conjunto com a comunidade utilizando o financiamento coletivo via [Apoia.se](https://apoia.se/training-center).
 
 Caso você queira nos ajudar, pode pagar uma semestralidade para algum grupo também. :smile:
 
@@ -40,7 +40,7 @@ Conteúdo da issue:
 
 Qualquer pessoa pode começar um Meetup do Training Center.
 
-Para tal, é importante abrir um pull request aqui nesse repositório alterando o arquivo [meetups.md](meetups.md) com o seguinte esquema:
+Para tal, é importante abrir um pull request aqui nesse repositório, alterando o arquivo [meetups.md](meetups.md) com o seguinte esquema:
 
 **Título do PR:** Proposta de abertura de Meetup em {cidade - estado}
 
@@ -64,15 +64,12 @@ Gerenciar um meetup não é nada fácil.
 
 Recomendamos, ao menos, 3 pessoas gerenciando o grupo e uma pessoa liderando.
 
-Você precisará fazer um fork dos nossos slides de abertura do evento e adicionar seus dados.
+Você precisará fazer um fork dos nossos [slides](https://docs.google.com/presentation/d/1Dae5oSIYF2S6wiqNXwjQNxipEE0oJPfoZZM2gSEkbdM/edit?usp=sharing) de abertura do evento e adicionar seus dados.
 
 É importante fazer essa abertura para dar algum anúncio da comunidade, do seu grupo ou qualquer outra coisa.
 
-[Slides](https://docs.google.com/presentation/d/1Dae5oSIYF2S6wiqNXwjQNxipEE0oJPfoZZM2gSEkbdM/edit?usp=sharing).
+Como a plataforma do Meetup é paga, nossa dica é: abra seu grupo e divulgue. Quando o grupo atingir 50 pessoas, ative o modo premium. Somente depois de 6 meses é que precisamos pagar pela plataforma. Você pode pagar e nós te reembolsamos com os recursos do Apoia-se.
 
-A plataforma Meetup.com é paga e nós usamos os recursos do nosso Apoia.se para pagar por ela.
-
-Nossa dica é: abra seu grupo, divulgue. Quando o grupo atingir 50 pessoas, ative o modo premium. Somente depois de 6 meses é que precisamos pagar pela plataforma. Você pode pagar e nós te reembolsamos.
 
 **Comunicação**
 
@@ -80,23 +77,27 @@ Você vai precisar cuidar da comunicação com seu público.
 
 Antes de um evento, será necessário confirmar se o local tem estacionamento, se cabe a quantidade de pessoas que você quer levar, se o local  ajuda com o coffee break, se é seguro próximo ao local, como vai funcionar o credenciamento para entrar no local e se tem meios de transporte de fácil acesso.
 
-Na plataforma Meetup você pode deixar tudo isso descrito para que as pessoas não tenham dvidas de como tudo vai funcionar.
+Na plataforma Meetup você pode deixar tudo isso descrito para que as pessoas não tenham dúvidas de como tudo vai funcionar.
+
 
 *Dicas*
 
 Um dia antes do evento, envie um email de confirmação para as pessoas se recordarem de como tudo vai funcionar.
 
-Um dia depois do evento, envie um email para todos do Meetup (não só para quem foi no evento) com um resumo do que aconteceu. Se houve palestra, tente enviar um link dos slides da pessoa que palestrou, se tiver vídeo, envie o vídeo, etc.
+Um dia depois do evento, envie um email para todos do grupo (não só para quem foi no evento) com um resumo do que aconteceu. Se houve palestra, tente enviar um link dos slides da pessoa que palestrou, se tiver vídeo, envie o vídeo, etc.
+
 
 **Formato dos encontros**
 
 Você é livre para escolher como fará os encontros e o melhor caminho é entender o que as pessoas mais gostam.
+
 
 ***Exemplos de formatos***
 
 - mesa redonda: onde as pessoas se reúnem para discutir sobre um assunto, porém sem uma pessoa palestrando, somente alguém (da organização) puxando o assunto
 - palestras: onde temos uma pessoa palestrando e outras pessoas assistindo
 - encontro informal: onde as pessoas combinam um local para se encontrar e fazer uma bagunça qualquer, como um bar ou cafeteria.
+
 
 ## Meetups por região
 
