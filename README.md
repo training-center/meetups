@@ -79,13 +79,13 @@ Antes de um evento, será necessário confirmar se o local tem estacionamento, s
 
 Na plataforma Meetup você pode deixar tudo isso descrito para que as pessoas não tenham dúvidas de como tudo vai funcionar.
 
-
 *Dicas*
 
-Um dia antes do evento, envie um email de confirmação para as pessoas se recordarem de como tudo vai funcionar.
+- Um dia antes do evento, envie um email de confirmação para as pessoas se recordarem de como tudo vai funcionar.
+- Alguns dias antes do evento mantenha a comunicação com o público pedindo que as pessoas que **não forem** desmarquem sua presença para dar lugar àquelas que irão comparecer.
+- Um dia depois do evento, envie um email para todos do grupo (não só para quem foi no evento) com um resumo do que aconteceu. Se houve palestra, tente enviar um link dos slides da pessoa que palestrou, se tiver vídeo, envie o vídeo, etc.
 
-Um dia depois do evento, envie um email para todos do grupo (não só para quem foi no evento) com um resumo do que aconteceu. Se houve palestra, tente enviar um link dos slides da pessoa que palestrou, se tiver vídeo, envie o vídeo, etc.
-
+> A adoção de um meetup pelo público não é uma coisa rápida. Portanto, se a quantidade de pessoas que, de fato, aparecerem no dia for bem menor que a quantidade que era esperada, não fique triste ou desanimado, com o tempo e realização constante a inércia causada pelo meetup vai ser correspondida.
 
 **Formato dos encontros**
 
