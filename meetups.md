@@ -10,3 +10,4 @@ Se você deseja iniciar um Meetup, leia a nossa [documentação](README.md#como-
 |---|---|---|---|---|
 | São Paulo | SP  | https://www.meetup.com/pt-BR/Training-Center-SP/  | [Luiz Felipe Limeira](https://twitter.com/lflimeira02 ) | [Fernanda Bernardo](https://twitter.com/Feh_Bernardo), [William Oliveira](https://twitter.com/w_oliveiras), [Lucas Santos](https://twitter.com/_StaticVoid) |
 | Porto Alegre | RS | https://www.meetup.com/pt-BR/Training-Center-RS/ | [Felipe Andrade](https://twitter.com/felipeSGAndrade) | [Aline Bastos](https://twitter.com/AlineBastos), [Adeonir Kohl](https://twitter.com/adeonir) |
+| Curitiba | PR | https://www.meetup.com/pt-BR/Training-Center-CWB/ | [Marcela Bomfim](https://twitter.com/cecelabomfim) | [Mariana Brito](https://twitter.com/briitomari) |
