@@ -6,6 +6,12 @@ Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com) e quando ul
 
 Caso você queira nos ajudar, pode pagar uma semestralidade para algum grupo também. :smile:
 
+## Nossos meetups
+
+Nessa lista você encontra todos os Meetups em andamento.
+
+[Lista de Meetups](meetups.md)
+
 ## Submeter palestra a algum Meetup <img src="https://github.com/training-center/call-4-papers/blob/master/img/send-button.png?raw=true" width="20px" alt="enviar">
 
 Para enviar palestras para eventos regionais organizados pelos membros do Training Center, você deve abrir uma _issue_ nesse repositório seguindo o template:
@@ -97,10 +103,3 @@ Você é livre para escolher como fará os encontros e o melhor caminho é enten
 - mesa redonda: onde as pessoas se reúnem para discutir sobre um assunto, porém sem uma pessoa palestrando, somente alguém (da organização) puxando o assunto
 - palestras: onde temos uma pessoa palestrando e outras pessoas assistindo
 - encontro informal: onde as pessoas combinam um local para se encontrar e fazer uma bagunça qualquer, como um bar ou cafeteria.
-
-
-## Meetups por região
-
-Nessa lista você encontra todos os Meetups em andamento.
-
-[Lista de Meetups](meetups.md)
