@@ -2,9 +2,7 @@
 
 > Repositório para padronizar encontros da comunidade e orgarnizar _call for papers_ dos Meetups.
 
-Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com) e quando ultrapassamos 50 pessoas no grupo, efetuamos o pagamento da conta em conjunto com a comunidade utilizando o financiamento coletivo via [Apoia.se](https://apoia.se/training-center).
-
-Caso você queira nos ajudar, pode pagar uma semestralidade para algum grupo também. :smile:
+Estamos utilizando a plataforma [Meetup.com](https://www.meetup.com).
 
 ## Nossos meetups
 
@@ -74,7 +72,7 @@ Você precisará fazer um fork dos nossos [slides](https://docs.google.com/prese
 
 É importante fazer essa abertura para dar algum anúncio da comunidade, do seu grupo ou qualquer outra coisa.
 
-Como a plataforma do Meetup é paga, nossa dica é: abra seu grupo e divulgue. Quando o grupo atingir 50 pessoas, ative o modo premium. Somente depois de 6 meses é que precisamos pagar pela plataforma. Você pode pagar e nós te reembolsamos com os recursos do Apoia-se.
+Como a plataforma do Meetup é paga, nossa dica é: abra seu grupo e divulgue para juntar pessoas que possam ajudar a pagar a plataforma através de financeamento coletivo (como o https://www.vakinha.com.br/)
 
 
 **Comunicação**
