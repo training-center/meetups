@@ -72,7 +72,7 @@ Você precisará fazer um fork dos nossos [slides](https://docs.google.com/prese
 
 É importante fazer essa abertura para dar algum anúncio da comunidade, do seu grupo ou qualquer outra coisa.
 
-Como a plataforma do Meetup é paga, nossa dica é: abra seu grupo e divulgue.
+Como a plataforma do Meetup é paga, nossa dica é: abra seu grupo e divulgue para juntar pessoas que possam ajudar a pagar a plataforma através de financeamento coletivo (como o https://www.vakinha.com.br/)
 
 
 **Comunicação**
